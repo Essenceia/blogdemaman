@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http://essenceia.github.io/blogdemaman/"
 languageCode = "en-us"
 title = "Le blog d'une maman"
 theme = "detox"
+publishDir = "docs"
