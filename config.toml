@@ -1,4 +1,4 @@
-baseURL = "http://essenceia.github.io/blogdemaman/"
+baseURL = "https://essenceia.github.io/blogdemaman/"
 languageCode = "en-us"
 title = "Le blog d'une maman"
 theme = "detox"
